@@ -1,2 +1,5 @@
+// Include the 'app' module in the project
 include ':app'
+
+// Set the name of the root project to "Messanger"
 rootProject.name = "Messanger"
